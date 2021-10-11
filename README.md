@@ -1,4 +1,4 @@
-# Pengorona
+# Pengorona multijoueur
 Jeu vidéo Pengo adapté au crise du Covid19
 
 Pengorona est un jeu de simulation basé sur le principe du jeu de Pengo, développé dans les années 1980. Cette version du jeu met en évidence la situation vécue lors de la crise du Coronavirus d’où son nom, ce qui signifie Pengo + corona.
