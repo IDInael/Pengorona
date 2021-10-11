@@ -1,0 +1,156 @@
+
+
+
+Ouverture de l'application : jeudi 14 mai 2020 14:58:38
+jeudi 14 mai 2020 14:58:45 : debut de la partievirus tué: bonus de300 pour MonJoueur
+virus tué: bonus de200 pour MonJoueur
+civil infecté tué: bonus de 50 pour MonJoueur
+civil infecté tué: bonus de 50 pour MonJoueur
+civil infecté tué: bonus de 50 pour MonJoueur
+civil infecté tué: bonus de 50 pour MonJoueur
+virus tué: bonus de300 pour MonJoueur
+MonJoueur: destruction bien public : amende 100$ 
+MonJoueur: destruction bien public : amende 100$ 
+MonJoueur: destruction bien public : amende 100$ 
+MonJoueur: destruction bien public : amende 100$ 
+MonJoueur: destruction bien public : amende 100$ 
+MonJoueur: destruction bien public : amende 100$ 
+
+Fermeture de l'application : jeudi 14 mai 2020 15:02:43
+
+
+Ouverture de l'application : jeudi 14 mai 2020 15:09:24
+jeudi 14 mai 2020 15:09:28 : debut de la partievirus tué: bonus de100 pour MonJoueur
+virus tué: bonus de300 pour MonJoueur
+
+Fermeture de l'application : jeudi 14 mai 2020 15:10:34
+
+
+Ouverture de l'application : jeudi 14 mai 2020 15:15:33
+jeudi 14 mai 2020 15:15:54 : debut de la partieMonJoueur a recu une amende de 50$
+le pinguoin de MonJoueur a été infecté
+MonJoueur: destruction bien public : amende 100$ 
+MonJoueur: destruction bien public : amende 100$ 
+civil infecté tué: bonus de 50 pour MonJoueur
+civil infecté tué: bonus de 50 pour MonJoueur
+MonJoueur: destruction bien public : amende 100$ 
+civil infecté tué: bonus de 50 pour MonJoueur
+civil infecté tué: bonus de 50 pour MonJoueur
+civil infecté tué: bonus de 50 pour MonJoueur
+MonJoueur: destruction bien public : amende 100$ 
+MonJoueur a recu une amende de 50$
+le pingouin de MonJoueur a été infecté
+virus tué: bonus de200 pour MonJoueur
+MonJoueur: destruction bien public : amende 100$ 
+civil infecté tué: bonus de 50 pour MonJoueur
+civil infecté tué: bonus de 50 pour MonJoueur
+virus tué: bonus de300 pour MonJoueur
+civil infecté tué: bonus de 50 pour MonJoueur
+virus tué: bonus de200 pour MonJoueur
+civil infecté tué: bonus de 50 pour MonJoueur
+virus tué: bonus de100 pour MonJoueur
+MonJoueur: destruction bien public : amende 100$ 
+virus tué: bonus de300 pour MonJoueur
+MonJoueur: destruction bien public : amende 100$ 
+
+MonJoueur a gagné
+jeudi 14 mai 2020 15:20:29 : fin de la partie!MonJoueur bonus de fin de partie de 11729$
+
+Fermeture de l'application : jeudi 14 mai 2020 15:21:11
+
+
+Ouverture de l'application : jeudi 14 mai 2020 15:22:16
+jeudi 14 mai 2020 15:22:21: MonJoueur a lancé un serveur de mode multijoueur
+Fermeture de l'application : jeudi 14 mai 2020 15:24:03
+
+
+Ouverture de l'application : jeudi 14 mai 2020 15:27:27
+jeudi 14 mai 2020 15:27:33: MonJoueur a lancé un serveur de mode multijoueur
+Fermeture de l'application : jeudi 14 mai 2020 15:29:06
+
+
+Ouverture de l'application : jeudi 14 mai 2020 16:14:15
+jeudi 14 mai 2020 16:14:20: MonJoueur a lancé un serveur de mode multijoueur
+jeudi 14 mai 2020 16:17:52 : debut de la partie
+jeudi 14 mai 2020 16:18:07 : modification du noom du joueur
+Fermeture de l'application : jeudi 14 mai 2020 16:18:15
+
+
+Ouverture de l'application : jeudi 14 mai 2020 19:33:52
+jeudi 14 mai 2020 19:34:05 : modification du noom du joueur
+Fermeture de l'application : jeudi 14 mai 2020 19:34:09
+
+
+Ouverture de l'application : jeudi 14 mai 2020 19:34:32
+jeudi 14 mai 2020 19:34:37 : debut de la partievirus tué: bonus de100 pour innocent
+civil infecté tué: bonus de 50 pour innocent
+virus tué: bonus de100 pour innocent
+civil infecté tué: bonus de 50 pour innocent
+virus tué: bonus de200 pour innocent
+virus tué: bonus de300 pour innocent
+virus tué: bonus de100 pour innocent
+le pingouin de innocent a été infecté
+le secours de innocent a été tué
+virus tué: bonus de300 pour innocent
+innocent: destruction bien public : amende 100$ 
+innocent: destruction bien public : amende 100$ 
+innocent: destruction bien public : amende 100$ 
+virus tué: bonus de100 pour innocent
+virus tué: bonus de300 pour innocent
+virus tué: bonus de300 pour innocent
+civil infecté tué: bonus de 50 pour innocent
+virus tué: bonus de300 pour innocent
+innocent: destruction bien public : amende 100$ 
+innocent: destruction bien public : amende 100$ 
+innocent: destruction bien public : amende 100$ 
+innocent: destruction bien public : amende 100$ 
+innocent: destruction bien public : amende 100$ 
+innocent: destruction bien public : amende 100$ 
+innocent: destruction bien public : amende 100$ 
+civil infecté tué: bonus de 50 pour innocent
+virus tué: bonus de200 pour innocent
+le pingouin de innocent a été infecté
+le secours de innocent a été tué
+civil infecté tué: bonus de 50 pour innocent
+civil infecté tué: bonus de 50 pour innocent
+innocent: destruction bien public : amende 100$ 
+
+innocent a gagné
+jeudi 14 mai 2020 19:41:10 : fin de la partie!
+Fermeture de l'application : jeudi 14 mai 2020 19:41:43
+
+
+Ouverture de l'application : jeudi 14 mai 2020 20:43:28
+jeudi 14 mai 2020 20:43:40 : debut de la partieinnocent: destruction bien public : amende 100$ 
+innocent: destruction bien public : amende 100$ 
+innocent: destruction bien public : amende 100$ 
+innocent: destruction bien public : amende 100$ 
+innocent: destruction bien public : amende 100$ 
+innocent: destruction bien public : amende 100$ 
+civil sain tué: amende de 50 pour innocent
+civil sain tué: amende de 50 pour innocent
+virus tué: bonus de200 pour innocent
+le pinguoin de innocent a été tué par la bombe
+le pingouin de innocent a été infecté
+innocent: destruction bien public : amende 100$ 
+innocent: destruction bien public : amende 100$ 
+innocent: destruction bien public : amende 100$ 
+innocent a recu une amende de 50$
+le pinguoin de innocent a été infecté
+le pinguoin de innocent a été infecté
+innocent: destruction bien public : amende 100$ 
+virus tué: bonus de200 pour innocent
+innocent: destruction bien public : amende 100$ 
+virus tué: bonus de400 pour innocent
+
+innocent a gagné
+jeudi 14 mai 2020 20:49:03 : fin de la partie!innocent bonus de fin de partie de 11678$
+
+jeudi 14 mai 2020 20:52:45 : debut de la partiele pingouin de innocent a été infecté
+le secours de innocent a été tué
+le pingouin de innocent a été infecté
+le secours de innocent a été tué
+
+innocent a perdu
+jeudi 14 mai 2020 20:54:14 : fin de la partie!
+Fermeture de l'application : jeudi 14 mai 2020 20:54:26

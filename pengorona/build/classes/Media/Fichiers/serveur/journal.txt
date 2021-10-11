@@ -1,0 +1,84 @@
+
+
+mercredi 13 mai 2020 05:26:05 : lancement du serveur null
+mercredi 13 mai 2020 05:26:07 : idi nael : 480 $ :: 3 vie(s) vient de se connecter
+mercredi 13 mai 2020 05:26:10 : lancement d'une nouvelle partiele pinguoin de idi nael a été tué par la bombe
+
+Fermeture de l'application : mercredi 13 mai 2020 05:27:08
+
+mercredi 13 mai 2020 05:32:29 : lancement du serveur null
+mercredi 13 mai 2020 05:32:31 : idi nael : 480 $ :: 3 vie(s) vient de se connecter
+mercredi 13 mai 2020 05:32:34 : lancement d'une nouvelle partie
+Fermeture de l'application : mercredi 13 mai 2020 05:32:53
+
+mercredi 13 mai 2020 14:03:38 : lancement du serveur null
+mercredi 13 mai 2020 14:03:40 : idi nael : 480 $ :: 3 vie(s) vient de se connecter
+mercredi 13 mai 2020 14:03:45 : lancement d'une nouvelle partieidi nael a recu une amende de 50$
+idi nael a recu une amende de 50$
+le pingouin de idi nael a été infecté
+
+Fermeture de l'application : mercredi 13 mai 2020 14:04:36
+
+mercredi 13 mai 2020 14:07:07 : lancement du serveur null
+mercredi 13 mai 2020 14:07:10 : idi nael : 480 $ :: 3 vie(s) vient de se connecter
+mercredi 13 mai 2020 14:07:14 : lancement d'une nouvelle partie
+Fermeture de l'application : mercredi 13 mai 2020 14:07:29
+
+mercredi 13 mai 2020 14:10:09 : lancement du serveur null
+mercredi 13 mai 2020 14:10:14 : idi nael : 480 $ :: 3 vie(s) vient de se connecter
+mercredi 13 mai 2020 14:10:17 : lancement d'une nouvelle partie
+Fermeture de l'application : mercredi 13 mai 2020 14:11:19
+
+mercredi 13 mai 2020 14:10:09 : lancement du serveur null
+mercredi 13 mai 2020 14:10:14 : idi nael : 480 $ :: 3 vie(s) vient de se connecter
+mercredi 13 mai 2020 14:10:17 : lancement d'une nouvelle partie
+Fermeture de l'application : mercredi 13 mai 2020 14:11:19
+mercredi 13 mai 2020 14:11:59 : lancement du serveur null
+mercredi 13 mai 2020 14:12:01 : idi nael : 480 $ :: 3 vie(s) vient de se connecter
+mercredi 13 mai 2020 14:12:32 : lancement d'une nouvelle partie
+Fermeture de l'application : mercredi 13 mai 2020 14:12:43
+
+mercredi 13 mai 2020 17:14:47 : lancement du serveur 192.168.153.1
+mercredi 13 mai 2020 17:14:49 : Idi : 480 $ :: 3 vie(s) vient de se connecter
+mercredi 13 mai 2020 17:14:51 : lancement d'une nouvelle partie
+Fermeture de l'application : mercredi 13 mai 2020 17:15:05
+
+mercredi 13 mai 2020 17:17:38 : lancement du serveur 192.168.153.1
+mercredi 13 mai 2020 17:17:41 : Idi : 480 $ :: 3 vie(s) vient de se connecter
+mercredi 13 mai 2020 17:17:43 : Idi : 480 $ :: 3 vie(s) a quitter la partie
+Fermeture de l'application : mercredi 13 mai 2020 17:17:43
+
+mercredi 13 mai 2020 21:33:48 : lancement du serveur 192.168.153.1
+mercredi 13 mai 2020 21:33:50 : Idi : 480 $ :: 3 vie(s) vient de se connecter
+mercredi 13 mai 2020 21:33:53 : lancement d'une nouvelle partieIdi: destruction bien public : amende 100$ 
+Idi: destruction bien public : amende 100$ 
+Idi: destruction bien public : amende 100$ 
+
+mercredi 13 mai 2020 21:34:11 : Idi : 180 $ :: 3 vie(s) a quitter la partie
+mercredi 13 mai 2020 21:34:13 : fin de la partie
+mercredi 13 mai 2020 21:34:28 : Idi : 180 $ :: 3 vie(s) vient de se connecter
+mercredi 13 mai 2020 21:34:33 : lancement d'une nouvelle partie
+mercredi 13 mai 2020 21:34:55 : Idi : 180 $ :: 3 vie(s) a quitter la partie
+Fermeture de l'application : mercredi 13 mai 2020 21:34:55
+
+mercredi 13 mai 2020 21:40:54 : lancement du serveur 192.168.153.1
+mercredi 13 mai 2020 21:40:55 : Idi : 180 $ :: 3 vie(s) vient de se connecter
+mercredi 13 mai 2020 21:41:00 : Idi : 180 $ :: 3 vie(s) a quitter la partie
+Fermeture de l'application : mercredi 13 mai 2020 21:41:33
+
+mercredi 13 mai 2020 21:40:54 : lancement du serveur 192.168.153.1
+mercredi 13 mai 2020 21:40:55 : Idi : 180 $ :: 3 vie(s) vient de se connecter
+mercredi 13 mai 2020 21:41:00 : Idi : 180 $ :: 3 vie(s) a quitter la partie
+Fermeture de l'application : mercredi 13 mai 2020 21:41:33
+mercredi 13 mai 2020 21:41:48 : lancement du serveur 192.168.153.1
+mercredi 13 mai 2020 21:41:50 : Idi : 180 $ :: 3 vie(s) vient de se connecter
+mercredi 13 mai 2020 21:41:53 : lancement d'une nouvelle partie
+mercredi 13 mai 2020 21:42:03 : Idi : 180 $ :: 3 vie(s) a quitter la partie
+mercredi 13 mai 2020 21:42:05 : fin de la partie
+Fermeture de l'application : mercredi 13 mai 2020 21:42:49
+
+mercredi 13 mai 2020 21:47:09 : lancement du serveur 192.168.153.1
+mercredi 13 mai 2020 21:47:11 : Idi : 180 $ :: 3 vie(s) vient de se connecter
+mercredi 13 mai 2020 21:47:14 : Idi : 180 $ :: 3 vie(s) a quitter la partie
+mercredi 13 mai 2020 21:47:24 : Idi : 180 $ :: 3 vie(s) vient de se connecter
+Fermeture de l'application : mercredi 13 mai 2020 21:47:30

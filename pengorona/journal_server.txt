@@ -1,0 +1,55 @@
+
+
+jeudi 14 mai 2020 15:22:21 : lancement du serveur 192.168.153.1
+jeudi 14 mai 2020 15:22:24 : MonJoueur : 13279 $ :: 3 vie(s) vient de se connecter
+jeudi 14 mai 2020 15:22:29 : lancement d'une nouvelle partie
+Fermeture de l'application : jeudi 14 mai 2020 15:24:03
+
+jeudi 14 mai 2020 15:27:33 : lancement du serveur 192.168.153.1
+jeudi 14 mai 2020 15:27:35 : MonJoueur : 13279 $ :: 3 vie(s) vient de se connecter
+jeudi 14 mai 2020 15:28:07 : MonJoueur : 13279 $ :: 3 vie(s) a quitter la partie
+Fermeture de l'application : jeudi 14 mai 2020 15:28:07
+
+jeudi 14 mai 2020 16:10:33 : lancement du serveur 192.168.153.1
+jeudi 14 mai 2020 16:10:35 : MonJoueur : 13279 $ :: 3 vie(s) vient de se connecter
+jeudi 14 mai 2020 16:10:38 : lancement d'une nouvelle partie
+Fermeture de l'application : jeudi 14 mai 2020 16:11:10
+
+jeudi 14 mai 2020 16:14:20 : lancement du serveur 192.168.153.1
+jeudi 14 mai 2020 16:14:22 : MonJoueur : 13279 $ :: 3 vie(s) vient de se connecter
+jeudi 14 mai 2020 16:17:00 : lancement d'une nouvelle partie
+Fermeture de l'application : jeudi 14 mai 2020 16:17:13
+
+jeudi 14 mai 2020 20:08:00 : lancement du serveur 192.168.110.1
+jeudi 14 mai 2020 20:08:02 : innocent : 1500 $ :: 1 vie(s) vient de se connecter
+jeudi 14 mai 2020 20:08:58 : joueur2 : 0 $ :: 3 vie(s) vient de se connecter
+jeudi 14 mai 2020 20:09:26 : lancement d'une nouvelle partiejoueur2 a recu une amende de 50$
+joueur2 a recu une amende de 50$
+joueur2 n'a pas assez d'argent pour payer l'amende 
+joueur2 n'a pas assez d'argent pour payer l'amende 
+
+jeudi 14 mai 2020 20:10:42 : joueur2 : 0 $ :: 3 vie(s) a quitter la partieinnocent: destruction bien public : amende 100$ 
+
+Fermeture de l'application : jeudi 14 mai 2020 20:11:57
+
+jeudi 14 mai 2020 20:17:23 : lancement du serveur 192.168.110.1
+jeudi 14 mai 2020 20:17:25 : innocent : 1500 $ :: 1 vie(s) vient de se connecter
+Fermeture de l'application : jeudi 14 mai 2020 20:17:32
+
+jeudi 14 mai 2020 20:21:13 : lancement du serveur 192.168.110.1
+jeudi 14 mai 2020 20:21:16 : innocent : 1500 $ :: 1 vie(s) vient de se connecter
+Fermeture de l'application : jeudi 14 mai 2020 20:21:18
+
+jeudi 14 mai 2020 20:22:14 : lancement du serveur 192.168.110.1
+jeudi 14 mai 2020 20:22:29 : innocent : 1500 $ :: 1 vie(s) vient de se connecter
+jeudi 14 mai 2020 20:23:36 : Joueur2 : 0 $ :: 3 vie(s) vient de se connecter
+jeudi 14 mai 2020 20:23:52 : lancement d'une nouvelle partieinnocent a recu une amende de 50$
+le pinguoin de innocent a été infecté
+Joueur2 a recu une amende de 50$
+le pinguoin de Joueur2 a été infecté
+
+jeudi 14 mai 2020 20:26:06 : Joueur2 : 0 $ :: 3 vie(s) a quitter la partie
+jeudi 14 mai 2020 20:26:29 : Joueur2 : 0 $ :: 3 vie(s) vient de se connecterle pingouin de innocent a été infecté
+le secours de innocent a été tué
+
+Fermeture de l'application : jeudi 14 mai 2020 20:27:43
